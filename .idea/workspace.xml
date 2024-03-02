@@ -4,31 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="de0495f1-577e-4c83-a72e-7dc748b7a783" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/HardQodeTZ.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/education/course/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/education/course/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/education/course/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/education/course/db_methods.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/education/course/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/education/course/serializers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/education/course/templates/course/invite.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/education/course/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/education/course/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/education/course/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/education/education/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/education/education/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/education/education/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/education/education/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/education/education/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/education/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    <list default="true" id="de0495f1-577e-4c83-a72e-7dc748b7a783" name="Changes" comment="1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/education/course/db_methods.py" beforeDir="false" afterPath="$PROJECT_DIR$/education/course/db_methods.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/education/education/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/education/education/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -147,12 +126,25 @@
       <workItem from="1709231145177" duration="8110000" />
       <workItem from="1709239263901" duration="5859000" />
       <workItem from="1709317520564" duration="15558000" />
-      <workItem from="1709365561796" duration="2602000" />
+      <workItem from="1709365561796" duration="17299000" />
     </task>
+    <task id="LOCAL-00001" summary="1">
+      <option name="closed" value="true" />
+      <created>1709368833505</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1709368833505</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/HardQodeTZ$main.coverage" NAME="main Coverage Results" MODIFIED="1709320171235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
